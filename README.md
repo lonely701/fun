@@ -4,6 +4,9 @@
 
 ## Info
 
+ID公社
+https://www.hi-id.com/
+
 Core77 工业设计杂志
 https://www.core77.com/
 
