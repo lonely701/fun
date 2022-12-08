@@ -1,4 +1,6 @@
-# Just in case.
+# Bookmarks. Just in case my memory gets wiped.
+
+> To be awake is to be alive.  -- Henry David Thoreau 
 
 ## Info
 
@@ -8,17 +10,29 @@ https://www.core77.com/
 晚点商业新闻
 https://www.latepost.com/
 
+## Forum
 
+V2EX
+https://v2ex.com/
+
+Reddit China
+https://www.reddit.com/r/China_irl/
+
+品葱
+https://pincong.rocks/
 
 ## Fun
 
-无尽的驾驶乐趣
+驾驶的乐趣
 https://slowroads.io/
+
+生命的乐趣
+https://g8hh.github.io/evolve/
 
 ## Resources (NSFW)
 
 影视
 https://jubt.fun/
 
-RARBG （镜像站）
+RARBG 镜像站
 https://rarbgmirror.com/index70.php
