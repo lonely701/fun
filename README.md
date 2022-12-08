@@ -2,7 +2,7 @@
 
 > To be awake is to be alive.  -- Henry David Thoreau 
 
-## Info
+## Read
 
 ID公社
 https://www.hi-id.com/
