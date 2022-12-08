@@ -32,6 +32,9 @@ https://slowroads.io/
 生命的乐趣
 https://g8hh.github.io/evolve/
 
+寻找的乐趣
+https://www.geoguessr.com/
+
 ## Resources (NSFW)
 
 影视
@@ -39,3 +42,7 @@ https://jubt.fun/
 
 RARBG 镜像站
 https://rarbgmirror.com/index70.php
+
+## Navigation
+
+https://0x3.com/
