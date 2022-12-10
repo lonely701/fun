@@ -43,6 +43,9 @@ https://jubt.fun/
 RARBG 镜像站
 https://rarbgmirror.com/index70.php
 
+TG
+https://proxygalaxy.me/
+
 ## Navigation
 
 https://0x3.com/
