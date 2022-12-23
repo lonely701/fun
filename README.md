@@ -1,8 +1,11 @@
-# Bookmarks. Just in case my memory gets wiped.
+# Bookmarks. Just in case I lost my memory.
 
 > To be awake is to be alive.  -- Henry David Thoreau 
 
 ## Read
+
+Need more good stuffs wrote in Chinese on this fucking Internet
+https://github.com/timqian/chinese-independent-blogs
 
 Hedwig
 https://hedwig.pub/
@@ -15,6 +18,27 @@ https://www.core77.com/
 
 晚点商业新闻
 https://www.latepost.com/
+
+Livid 刘昕 - founder of V2EX
+https://livid.v2ex.com/
+
+愆伏 - 互联网杂谈
+https://www.tortorse.com/
+
+Velas 电波站 - 编程 设计 写作 影视 游戏
+https://www.velasx.com/
+
+Heo - 设计与科技
+https://blog.zhheo.com/
+
+Not LSD - 游戏设计
+https://notlsd.github.io/
+
+设计相关
+https://juuun.io/
+
+探索产品设计和增长的科学
+https://maxoxo.me/
 
 ## Forum
 
@@ -48,6 +72,11 @@ https://rarbgmirror.com/index70.php
 
 TG
 https://proxygalaxy.me/
+
+## Tools
+
+Hexo
+https://hexo.io/
 
 ## Navigation
 
