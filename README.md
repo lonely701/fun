@@ -4,8 +4,9 @@
 
 ## Read
 
-Need more good stuffs wrote in Chinese on this fucking Internet
-https://github.com/timqian/chinese-independent-blogs
+Good old design journal
+http://www.minimallyminimal.com/
+https://allsideswater.com/
 
 Hedwig
 https://hedwig.pub/
@@ -39,6 +40,9 @@ https://juuun.io/
 
 探索产品设计和增长的科学
 https://maxoxo.me/
+
+Need more good stuffs wrote in Chinese on this fucking Internet
+https://github.com/timqian/chinese-independent-blogs
 
 ## Forum
 
