@@ -66,6 +66,9 @@ https://g8hh.github.io/evolve/
 寻找的乐趣
 https://www.geoguessr.com/
 
+Open a window
+https://www.window-swap.com/
+
 ## Resources (NSFW)
 
 影视
