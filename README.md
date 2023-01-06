@@ -5,6 +5,12 @@
 
 ## Applications
 
+Cubox
+https://cubox.cc/
+
+DropPoint
+https://droppoint.netlify.app/
+
 Ditto
 https://github.com/sabrogden/Ditto
 
@@ -79,6 +85,9 @@ https://www.geoguessr.com/
 
 Open a window
 https://www.window-swap.com/
+
+Build 建造
+https://oskarstalberg.com/Townscaper/
 
 IV. Resources (NSFW)
 
