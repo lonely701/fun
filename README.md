@@ -1,12 +1,13 @@
-# Bookmarks. Just in case I lost my memory.
+Collections of good (very subjective)  things on the Internet
 
 > To be awake is to be alive.  -- Henry David Thoreau 
+
+##
 
 ## Read
 
 Good old design journal
 http://www.minimallyminimal.com/
-https://allsideswater.com/
 
 Hedwig
 https://hedwig.pub/
@@ -79,11 +80,6 @@ https://rarbgmirror.com/index70.php
 
 TG
 https://proxygalaxy.me/
-
-## Tools
-
-Hexo
-https://hexo.io/
 
 ## Navigation
 
