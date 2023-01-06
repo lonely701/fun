@@ -24,6 +24,9 @@ https://github.com/namazso/OpenHashTab
 Humble New Tab Page
 https://github.com/ibillingsley/HumbleNewTabPage
 
+Tabby Cat
+https://tabbycats.club/
+
 ## Websites
 
 I. Reading
