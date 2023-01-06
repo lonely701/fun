@@ -1,10 +1,26 @@
-Collections of good (very subjective)  things on the Internet
+# Just in case 以防万一
 
-> To be awake is to be alive.  -- Henry David Thoreau 
+> To be awake is to be alive.  
+> -- Henry David Thoreau 
 
-##
+## Applications
 
-## Read
+Ditto
+https://github.com/sabrogden/Ditto
+
+Snipaste
+
+OpenHashTab
+https://github.com/namazso/OpenHashTab
+
+## Extensions
+
+Humble New Tab Page
+https://github.com/ibillingsley/HumbleNewTabPage
+
+## Websites
+
+I. Reading
 
 Good old design journal
 http://www.minimallyminimal.com/
@@ -30,9 +46,6 @@ https://www.tortorse.com/
 Velas 电波站 - 编程 设计 写作 影视 游戏
 https://www.velasx.com/
 
-Heo - 设计与科技
-https://blog.zhheo.com/
-
 Not LSD - 游戏设计
 https://notlsd.github.io/
 
@@ -45,32 +58,29 @@ https://maxoxo.me/
 Need more good stuffs wrote in Chinese on this fucking Internet
 https://github.com/timqian/chinese-independent-blogs
 
-## Forum
+II. Forum
 
 V2EX
 https://v2ex.com/
 
-Reddit China
-https://www.reddit.com/r/China_irl/
-
 品葱
 https://pincong.rocks/
 
-## Fun
+III. Fun
 
-驾驶的乐趣
+Driving 驾驶
 https://slowroads.io/
 
-生命的乐趣
+Life 生命
 https://g8hh.github.io/evolve/
 
-寻找的乐趣
+Discovery 寻找
 https://www.geoguessr.com/
 
 Open a window
 https://www.window-swap.com/
 
-## Resources (NSFW)
+IV. Resources (NSFW)
 
 影视
 https://jubt.fun/
@@ -81,6 +91,6 @@ https://rarbgmirror.com/index70.php
 TG
 https://proxygalaxy.me/
 
-## Navigation
+V. Navigation
 
 https://0x3.com/
