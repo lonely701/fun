@@ -43,6 +43,9 @@ https://hedwig.pub/
 ID公社
 https://www.hi-id.com/
 
+Danish Design Review
+https://danishdesignreview.com/blog
+
 Core77 工业设计杂志
 https://www.core77.com/
 
