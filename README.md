@@ -37,6 +37,9 @@ https://www.yuque.com/cbyd/chengbao/bkcfrm
 Good old design journal
 http://www.minimallyminimal.com/
 
+Reading Design
+https://www.readingdesign.org/
+
 Hedwig
 https://hedwig.pub/
 
