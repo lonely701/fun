@@ -1,7 +1,9 @@
 # Just in case 以防万一
 
 > To be awake is to be alive.  
-> -- Henry David Thoreau 
+> -- Henry David Thoreau
+
+备忘：edge.myqnapcloud.io
 
 ## Applications
 
