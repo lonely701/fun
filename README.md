@@ -3,7 +3,7 @@
 > To be awake is to be alive.  
 > -- Henry David Thoreau
 
-备忘：edge.myqnapcloud.io
+备忘：edge.myqnapcloud.io edge.api.myqnapcloud.com
 
 > https://liuzesen.com/2023/11/19/%E8%AE%A9%E5%A8%81%E8%81%94%E9%80%9ADDNS%E6%A3%80%E6%B5%8BIP%E4%B8%8D%E8%B5%B0%E4%BB%A3%E7%90%86/
 
