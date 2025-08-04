@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "edge.myqnapcloud.io",
+        "edge.api.myqnapcloud.com"
+      ],
+      "domain_suffix": [
+        "myqnapcloud.io",
+        "myqnapcloud.com"
+      ],
+      "domain_regex": "^.*myqnapcloud.*$"
+    }
+  ]
+}
