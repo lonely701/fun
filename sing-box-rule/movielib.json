@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "hongxingyunmovie.vip"
+      ],
+      "domain_suffix": [
+        "hongxingyun.vip"
+      ],
+      "domain_regex": "^.*hongxingyun.*$"
+    }
+  ]
+}
