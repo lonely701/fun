@@ -94,7 +94,8 @@ Driving 驾驶
 https://slowroads.io/
 
 Life 生命
-https://g8hh.github.io/evolve/
+原版 https://pmotschmann.github.io/Evolve/
+中文版 https://g8hh.github.io/evolve
 
 Discovery 寻找
 https://www.geoguessr.com/
@@ -104,6 +105,10 @@ https://www.window-swap.com/
 
 Build 建造
 https://oskarstalberg.com/Townscaper/
+
+https://neal.fun
+
+https://lessgames.com
 
 IV. Resources (NSFW)
 
