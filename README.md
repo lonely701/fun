@@ -106,9 +106,14 @@ https://www.window-swap.com/
 Build 建造
 https://oskarstalberg.com/Townscaper/
 
+Interaction 网页交互实验
 https://neal.fun
 
+Words 文字游戏
 https://lessgames.com
+
+Keyboard 键盘布局设计
+https://www.keyboard-layout-editor.com/#/
 
 IV. Resources (NSFW)
 
